@@ -4,6 +4,7 @@
 - **Amaya Pineda, Marlon Javier**
 - **Escobar Hernandez, Roberto Carlos**
 - **Hidalgo Barahona, Sergio Hidalgo**
+- **Alvaro Sebastian Jordan Lopez**
 
 # Introducción al caso.
 Una pequeña empresa que consta de 25 empleados necesita mejoras urgentes a su sistema actual, el cual presenta inconvenientes significativos a la operación de la misma:
